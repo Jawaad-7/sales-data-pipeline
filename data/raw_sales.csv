@@ -1,0 +1,9 @@
+OrderID,Product,Region,Quantity,UnitPrice,SaleDate
+1,Laptop,North,2,1200,2026-01-15
+2,Mouse,South,5,25,2026-01-16
+3,Desk,East,3,450,2026-01-17
+4,Chair,West,10,150,2026-01-18
+5,Monitor,North,4,300,2026-01-19
+6,Laptop,South,1,1200,2026-01-20
+7,Mouse,East,8,25,2026-01-21
+8,Chair,North,6,150,2026-01-22
